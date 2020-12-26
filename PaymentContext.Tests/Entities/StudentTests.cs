@@ -9,6 +9,7 @@ namespace PaymentContext.Tests
     public class StudentTests
     {
         [TestMethod]
+        [Ignore]
         public void TestMethod1()
         {
             var email = new Email("hello@marcelo.com");
